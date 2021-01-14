@@ -1,0 +1,13 @@
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\bin\Debug\netcoreapp3.1\AtividadeAssincrona_1.exe
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\bin\Debug\netcoreapp3.1\AtividadeAssincrona_1.deps.json
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\bin\Debug\netcoreapp3.1\AtividadeAssincrona_1.runtimeconfig.json
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\bin\Debug\netcoreapp3.1\AtividadeAssincrona_1.runtimeconfig.dev.json
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\bin\Debug\netcoreapp3.1\AtividadeAssincrona_1.dll
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\bin\Debug\netcoreapp3.1\AtividadeAssincrona_1.pdb
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.csprojAssemblyReference.cache
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.AssemblyInfoInputs.cache
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.AssemblyInfo.cs
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.csproj.CoreCompileInputs.cache
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.dll
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.pdb
+C:\Users\RicardoGC\source\repos\AtividadeAssincrona_1\AtividadeAssincrona_1\obj\Debug\netcoreapp3.1\AtividadeAssincrona_1.genruntimeconfig.cache
